@@ -6,6 +6,6 @@
 
 - Files:
 
-* bthloggen/req1.awk
+** bthloggen/req1.awk
 
-* bthloggen/req1_fileTextToJsonFile.py
+** bthloggen/req1_fileTextToJsonFile.py
