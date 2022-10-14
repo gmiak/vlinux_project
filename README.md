@@ -15,7 +15,7 @@ E.g:
             - ...
 
 
-- Extract each Ips and urls from the file "access-50.log" by using Regex for processing and formating the text. Load the data into data/log.json as following:
+- Extract each IP addresses and HTTP/HTTPS addresses from "access-50.log" by using Regex for processing and formatting the text. Load the data into data/log.json as following:
 
             - [
                   {
