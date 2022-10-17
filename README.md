@@ -50,7 +50,7 @@ Build a server that filter the data. Implement the backend route as following:
                  
 - Implementation
 
-      * The server is builded with Node.js (Express). The server is builded           throw away docker container and the image is located at [bthloggen-           server](https://hub.docker.com/repository/docker/gmiak/bthloggen-server).
+      * The server is builded with Node.js (Express). The server is builded throw away docker container and the image is located at [bthloggen-server](https://hub.docker.com/repository/docker/gmiak/bthloggen-server).
       
       * code:
       
