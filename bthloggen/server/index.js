@@ -22,13 +22,18 @@ app.get("/data", (req, res) => {
     } else if (req.query.url) {
         console.log("search url: "+req.query.url+" in Db.");
         result = itemsfile.filter(item => item.url.includes(req.query.url));
-    } else {
+    } else if (req.query.size) {
         let tempObejctArr = []
-        for (let index = 0; index < 100; index++) {
-            tempObejctArr[index] = itemsfile[index];
+        if (req.query.size < itemsfile.length) {
+            for (let index = 0; index < req.query.size; index++) {
+                tempObejctArr[index] = itemsfile[index];
+            } 
         }
-        console.log("Fetced the first 100th items.")
+        console.log("Fetched the first 100th items.")
         result = tempObejctArr;
+    } else {
+        result = itemsfile
+        console.log("Fetched all data.")
     }
     res.json(result);
 });
