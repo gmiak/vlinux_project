@@ -29,8 +29,31 @@ E.g:
               ]
 
 
-- Code:
+- Implementation:
 
       + bthloggen/req1.awk
 
       + bthloggen/req1_fileTextToJsonFile.py
+
+
+### Requirement 2
+
+Build a server that filter the data. Implement the backend route as following: 
+
+                 - "/": "Shows a list of all posible routes that are used."
+                 
+                 - "/data": "Shows our data collection."
+                 
+                 - "/data?ip=<ip>": "Shows data that contains the given ip                       address <ip>."
+                 
+                 - "/data?url=<url>": "Shows data that contains the given                        http/https address <url>."
+                 
+- Implementation
+
+      * The server is builded with Node.js (Express). The server is builded           throw away docker container and the image is located at [bthloggen-           server](https://hub.docker.com/repository/docker/gmiak/bthloggen-server).
+      
+      * code:
+      
+            + bthloggen/docker-compose.yml
+            
+            + btloggen/server/
