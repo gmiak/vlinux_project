@@ -28,6 +28,36 @@ function urlFormated(inputstring) {
     return returnString
 }
 
+#
+# Formates and returns day from string
+#
+function dayFormated(inputstring) {
+    split(inputstring, outputarray, "/")
+    string1 = outputarray[1]
+    string1 = substr(string1, 2, length(string1))
+    return string1
+}
+
+#
+# Formates and returns month from string
+#
+function monthFormated(inputstring) {
+    split(inputstring, outputarray, "/")
+    string1 = outputarray[2]
+    return string1
+}
+
+#
+# Formates and returns time from string
+#
+function timeFormated(inputstring) {
+    split(inputstring, outputarray, ":")
+    string1 = outputarray[2]
+    string2 = outputarray[3]
+    string3 = outputarray[4]
+    return string1":"string2":"string3
+}
+
 
 BEGIN {
 	FS=" " 
@@ -41,13 +71,14 @@ NR == 1 {next}
     printf("") > "req1_tempfile_ip_url.txt"
     inputstring = $11
 
-    # First check if there's some Ip
+    # First check if the line contains an Ip-adress
     if ($1)  {
         # Then check which column contain url
         for (i=1; i<=NF; i++) {
             if ($i ~ /http:\/\// || $i ~ /https:\/\//) {
                 inputstring = $i
-                printf "%s %s\n", $1, urlFormated(inputstring) >> "req1_tempfile_ip_url.txt"
+                printf "%s %s %s %s %s\n", $1, urlFormated(inputstring), dayFormated($4),\
+                 monthFormated($4), timeFormated($4) >> "req1_tempfile_ip_url.txt"
             }
         }
     }

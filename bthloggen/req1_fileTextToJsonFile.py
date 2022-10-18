@@ -23,12 +23,15 @@ dict1 = {}
 # creating dictionary and adding it into the list object
 with open(filenameToJson) as fh:
     for line in fh:
-        if (len(line.strip().split(None, 1)) > 1):
+        if (len(line.strip().split(None, 5)) > 4):
           #split the line by using the space between each blocs
-          command, description = line.strip().split(None, 1)
+          command, description, theDay, theMonth, theTime = line.strip().split(None, 5)
           dict1 = {
             "ip": command,
-            "url": description.strip()
+            "url": description.strip(),
+            "day": theDay.strip(),
+            "month": theMonth.strip(),
+            "time": theTime.strip()
           }
           # insert the dictionary to the list
           listObj.append(dict1)
