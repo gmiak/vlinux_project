@@ -9,7 +9,7 @@ services:
         ports:
             - "1338:1337"
         volumes:
-            - "./server/data/:/server/data/"
+            - "./data/:/data/"
         networks:
             gmiak:
         restart:

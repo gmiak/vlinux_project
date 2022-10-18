@@ -373,7 +373,7 @@
 3.9.142.226 http://www.majestic12.co.uk
 3.9.142.226 http://www.majestic12.co.uk
 3.9.142.226 http://www.majestic12.co.uk
-3.255.64.99 https://www.google.com"
+3.255.64.99 https://www.google.com
 3.9.142.226 http://www.majestic12.co.uk
 3.9.142.226 http://www.majestic12.co.uk
 3.9.142.226 http://www.majestic12.co.uk
@@ -1132,7 +1132,7 @@
 3.55.39.167 http://www.bing.com
 3.249.76.100 http://www.google.com
 3.30.210.242 http://www.majestic12.co.uk
-3.4.133.3 https://www.google.se"
+3.4.133.3 https://www.google.se
 3.4.133.3 https://dbwebb.se
 3.30.210.242 http://www.majestic12.co.uk
 3.30.210.242 http://www.majestic12.co.uk
@@ -1197,7 +1197,7 @@
 3.249.76.100 http://www.google.com
 3.227.89.252 https://dbwebb.se
 3.46.13.30 http://www.bing.com
-3.125.189.98 http://www.FeedBurner.com)"
+3.125.189.98 http://www.FeedBurner.com
 3.46.13.93 http://www.bing.com
 3.249.76.100 http://www.google.com
 3.193.51.33 http://yandex.com
@@ -1237,7 +1237,7 @@
 3.19.138.35 http://www.feedly.com
 3.55.39.167 http://www.bing.com
 3.249.76.98 http://www.google.com
-3.227.255.137 https://www.google.se"
+3.227.255.137 https://www.google.se
 3.46.13.30 http://www.bing.com
 3.227.89.252 https://dbwebb.se
 3.227.89.252 https://dbwebb.se
@@ -1297,7 +1297,7 @@
 3.254.214.163 https://dbwebb.se
 3.254.214.163 https://dbwebb.se
 3.254.214.163 https://dbwebb.se
-3.240.120.97 https://www.google.com"
+3.240.120.97 https://www.google.com
 3.29.255.24 https://dbwebb.se
 3.29.255.24 https://dbwebb.se
 3.46.13.30 http://www.bing.com
@@ -1538,7 +1538,7 @@
 3.254.26.11 https://dbwebb.se
 3.254.26.11 https://dbwebb.se
 3.17.187.51 https://www.google.se
-3.73.108.82 https://www.google.se"
+3.73.108.82 https://www.google.se
 3.46.13.30 http://search.msn.com
 3.19.138.35 http://www.feedly.com
 3.55.39.167 http://www.bing.com
@@ -1710,7 +1710,7 @@
 3.17.187.51 https://dbwebb.se
 3.17.187.51 https://dbwebb.se
 3.224.0.98 https://www.google.se
-3.245.234.68 https://www.google.com"
+3.245.234.68 https://www.google.com
 3.255.194.29 http://www.majestic12.co.uk
 3.227.89.252 https://dbwebb.se
 3.227.89.252 https://dbwebb.se
@@ -1742,7 +1742,7 @@
 3.195.246.200 https://dbwebb.se
 3.195.246.200 https://dbwebb.se
 3.30.252.42 http://dbwebb.se
-3.174.2.200 http://www.linkedin.com)"
+3.174.2.200 http://www.linkedin.com
 3.68.241.42 https://dbwebb.se
 3.68.241.42 https://dbwebb.se
 3.68.241.42 https://dbwebb.se
@@ -1851,7 +1851,7 @@
 3.165.21.4 https://dbwebb.se
 3.165.21.4 https://dbwebb.se
 3.165.21.4 https://dbwebb.se
-3.211.183.141 https://www.google.co.in"
+3.211.183.141 https://www.google.co.in
 3.46.13.30 http://www.bing.com
 3.46.13.30 http://www.bing.com
 3.237.165.165 https://dbwebb.se
@@ -2068,7 +2068,7 @@
 3.30.198.186 http://www.majestic12.co.uk
 3.30.198.186 http://www.majestic12.co.uk
 3.30.198.186 http://www.majestic12.co.uk
-3.125.189.99 http://www.FeedBurner.com)"
+3.125.189.99 http://www.FeedBurner.com
 3.30.198.186 http://www.majestic12.co.uk
 3.30.198.186 http://www.majestic12.co.uk
 3.254.26.11 https://dbwebb.se
@@ -2426,7 +2426,7 @@
 3.170.143.53 https://dbwebb.se
 3.170.143.53 https://dbwebb.se
 3.249.76.100 http://www.google.com
-3.194.90.100 http://www.FeedBurner.com)"
+3.194.90.100 http://www.FeedBurner.com
 3.55.39.167 http://www.bing.com
 3.237.165.165 https://dbwebb.se
 3.237.165.165 https://dbwebb.se
@@ -2558,7 +2558,7 @@
 3.249.76.102 http://www.google.com
 3.224.147.241 https://gitter.im
 3.249.76.98 http://www.google.com
-3.185.83.179 http://m.facebook.com"
+3.185.83.179 http://m.facebook.com
 3.47.137.54 https://dbwebb.se
 3.47.137.54 https://dbwebb.se
 3.47.137.54 https://dbwebb.se
@@ -2610,7 +2610,7 @@
 3.230.225.206 https://dbwebb.se
 3.230.225.206 https://dbwebb.se
 3.230.225.206 https://dbwebb.se
-3.228.26.105 https://www.google.se"
+3.228.26.105 https://www.google.se
 3.228.26.105 https://dbwebb.se
 3.228.26.105 https://dbwebb.se
 3.228.26.105 https://dbwebb.se
@@ -2651,7 +2651,7 @@
 3.136.108.10 https://dbwebb.se
 3.55.39.167 http://www.bing.com
 3.136.108.10 https://dbwebb.se
-3.82.237.239 https://www.google.com"
+3.82.237.239 https://www.google.com
 3.249.76.100 http://www.google.com
 3.249.76.100 http://www.google.com
 3.46.13.93 http://www.bing.com
@@ -2893,7 +2893,7 @@
 3.252.99.248 https://dbwebb.se
 3.47.137.54 https://www.google.se
 3.252.99.248 https://dbwebb.se
-3.225.119.123 https://www.google.se"
+3.225.119.123 https://www.google.se
 3.46.13.30 http://www.bing.com
 3.193.37.16 http://yandex.com
 3.158.152.15 http://yandex.com
@@ -2965,7 +2965,7 @@
 3.46.13.93 http://www.bing.com
 3.77.167.63 http://www.bing.com
 3.77.167.63 http://www.bing.com
-3.16.87.161 https://www.google.se"
+3.16.87.161 https://www.google.se
 3.16.87.161 https://dbwebb.se
 3.16.87.161 https://dbwebb.se
 3.16.87.161 https://dbwebb.se
@@ -3366,7 +3366,7 @@
 3.219.142.43 https://dbwebb.se
 3.219.142.43 https://dbwebb.se
 3.219.142.43 https://dbwebb.se
-3.194.90.98 http://www.FeedBurner.com)"
+3.194.90.98 http://www.FeedBurner.com
 3.219.142.43 https://dbwebb.se
 3.219.142.43 https://dbwebb.se
 3.219.142.43 https://dbwebb.se
@@ -4562,7 +4562,7 @@
 3.89.6.198 https://dbwebb.se
 3.89.6.198 https://dbwebb.se
 3.89.6.198 https://dbwebb.se
-3.68.137.252 http://m.facebook.com"
+3.68.137.252 http://m.facebook.com
 3.68.137.252 https://dbwebb.se
 3.89.6.198 https://dbwebb.se
 3.89.6.198 https://dbwebb.se
@@ -5391,7 +5391,7 @@
 3.204.150.116 https://dbwebb.se
 3.249.76.100 http://www.google.com
 3.9.88.103 http://www.majestic12.co.uk
-3.127.147.149 https://dbwebb.se"
+3.127.147.149 https://dbwebb.se
 3.9.88.103 http://www.majestic12.co.uk
 3.9.88.103 http://www.majestic12.co.uk
 3.9.88.103 http://www.majestic12.co.uk
@@ -5861,7 +5861,7 @@
 3.215.112.76 https://dbwebb.se
 3.215.112.76 https://dbwebb.se
 3.254.26.11 https://dbwebb.se
-3.11.190.70 http://m.facebook.com"
+3.11.190.70 http://m.facebook.com
 3.11.190.70 https://dbwebb.se
 3.204.150.116 https://dbwebb.se
 3.204.150.116 https://dbwebb.se
@@ -6151,7 +6151,7 @@
 3.46.13.30 http://www.bing.com
 3.77.167.63 http://www.bing.com
 3.132.161.12 http://ahrefs.com
-3.196.145.91 https://discordapp.com)"
+3.196.145.91 https://discordapp.com
 3.55.39.167 http://www.bing.com
 3.249.93.76 http://www.google.com
 3.102.6.149 http://www.google.com
@@ -6826,7 +6826,7 @@
 3.227.211.78 https://dbwebb.se
 3.46.13.30 http://www.bing.com
 3.46.13.93 http://www.bing.com
-3.30.32.1 https://dbwebb.se"
+3.30.32.1 https://dbwebb.se
 3.30.32.1 https://dbwebb.se
 3.30.32.1 http://www.zipcommander.com
 3.30.32.1 https://dbwebb.se
@@ -7384,7 +7384,7 @@
 3.204.150.116 https://dbwebb.se
 3.204.150.116 https://dbwebb.se
 3.46.13.30 http://www.bing.com
-3.125.76.32 http://www.FeedBurner.com)"
+3.125.76.32 http://www.FeedBurner.com
 3.55.39.167 http://search.msn.com
 3.80.31.171 http://ahrefs.com
 3.132.161.13 http://ahrefs.com
@@ -7550,7 +7550,7 @@
 3.132.161.4 http://ahrefs.com
 3.249.76.98 http://www.google.com
 3.180.231.47 http://help.yahoo.com
-3.125.76.100 http://www.FeedBurner.com)"
+3.125.76.100 http://www.FeedBurner.com
 3.77.167.63 http://www.bing.com
 3.77.167.63 http://www.bing.com
 3.46.13.30 http://www.bing.com
@@ -7686,7 +7686,7 @@
 3.55.39.29 http://www.bing.com
 3.132.161.96 http://ahrefs.com
 3.80.31.182 http://ahrefs.com
-3.212.246.35 https://www.google.co.in"
+3.212.246.35 https://www.google.co.in
 3.55.39.29 http://www.bing.com
 3.55.39.167 http://www.bing.com
 3.255.65.73 http://ahrefs.com
@@ -8651,9 +8651,9 @@
 3.63.102.241 https://dbwebb.se
 3.171.230.102 http://www.facebook.com
 3.63.102.241 https://dbwebb.se
-3.113.99.132 http://m.facebook.com"
+3.113.99.132 http://m.facebook.com
 3.113.99.132 https://dbwebb.se
-3.125.76.98 http://www.FeedBurner.com)"
+3.125.76.98 http://www.FeedBurner.com
 3.63.102.241 https://dbwebb.se
 3.63.102.241 https://dbwebb.se
 3.249.76.102 http://www.google.com
@@ -8757,7 +8757,7 @@
 3.46.13.30 http://www.bing.com
 3.249.76.102 http://www.google.com
 3.249.65.176 http://www.google.com
-3.125.76.35 http://www.FeedBurner.com)"
+3.125.76.35 http://www.FeedBurner.com
 3.77.167.63 http://www.bing.com
 3.132.161.89 http://ahrefs.com
 3.255.65.17 http://ahrefs.com
@@ -8790,7 +8790,7 @@
 3.255.65.6 http://ahrefs.com
 3.77.167.63 http://www.bing.com
 3.226.133.80 http://m.facebook.com
-3.68.82.234 https://www.google.se"
+3.68.82.234 https://www.google.se
 3.68.82.234 https://dbwebb.se
 3.68.82.234 https://dbwebb.se
 3.68.82.234 https://dbwebb.se
@@ -9309,7 +9309,7 @@
 3.102.6.153 http://www.google.com
 3.249.84.241 http://www.google.com
 3.2.89.218 https://dbwebb.se
-3.109.40.184 https://www.google.se"
+3.109.40.184 https://www.google.se
 3.109.40.184 https://dbwebb.se
 3.109.40.184 https://dbwebb.se
 3.109.40.184 https://dbwebb.se
@@ -9660,7 +9660,7 @@
 3.68.92.240 https://dbwebb.se
 3.68.92.240 https://dbwebb.se
 3.68.92.240 https://dbwebb.se
-3.125.76.32 http://www.FeedBurner.com)"
+3.125.76.32 http://www.FeedBurner.com
 3.123.6.7 https://dbwebb.se
 3.77.167.63 http://www.bing.com
 3.77.167.63 http://www.bing.com
@@ -9715,7 +9715,7 @@
 3.114.199.16 https://dbwebb.se
 3.46.13.49 http://www.bing.com
 3.77.167.63 http://www.bing.com
-3.192.253.2 https://www.google.co.in"
+3.192.253.2 https://www.google.co.in
 3.55.39.29 http://www.bing.com
 3.55.39.29 http://www.bing.com
 3.46.13.49 http://www.bing.com
@@ -9903,7 +9903,7 @@
 3.249.76.102 http://www.google.com
 3.55.39.167 http://www.bing.com
 3.55.39.167 http://www.bing.com
-3.125.76.99 http://www.FeedBurner.com)"
+3.125.76.99 http://www.FeedBurner.com
 3.255.65.4 http://ahrefs.com
 3.55.39.167 http://www.bing.com
 3.55.39.167 http://www.bing.com
@@ -9936,7 +9936,7 @@
 3.195.39.115 https://dbwebb.se
 3.77.167.63 http://www.bing.com
 3.46.13.49 http://www.bing.com
-3.133.196.94 https://www.google.co.in"
+3.133.196.94 https://www.google.co.in
 3.55.39.167 http://www.bing.com
 3.55.39.167 http://www.bing.com
 3.132.161.43 http://ahrefs.com
@@ -10065,7 +10065,7 @@
 3.195.157.139 https://dbwebb.se
 3.195.157.139 https://dbwebb.se
 3.195.157.139 https://dbwebb.se
-3.76.129.178 https://www.facebook.com"
+3.76.129.178 https://www.facebook.com
 3.76.129.178 https://dbwebb.se
 3.76.129.178 https://dbwebb.se
 3.76.129.178 https://dbwebb.se
@@ -10283,7 +10283,7 @@
 3.132.161.78 http://ahrefs.com
 3.175.116.73 http://www.linkdex.com
 3.55.39.29 http://www.bing.com
-3.76.129.178 https://www.facebook.com"
+3.76.129.178 https://www.facebook.com
 3.76.129.178 https://dbwebb.se
 3.76.129.178 https://dbwebb.se
 3.76.129.178 https://dbwebb.se
@@ -10591,7 +10591,7 @@
 3.55.39.167 http://www.bing.com
 3.175.116.73 http://www.linkdex.com
 3.249.76.102 http://www.google.com
-3.76.129.178 https://www.facebook.com"
+3.76.129.178 https://www.facebook.com
 3.132.161.67 http://ahrefs.com
 3.55.39.29 http://www.bing.com
 3.46.13.49 http://www.bing.com
@@ -10654,7 +10654,7 @@
 3.46.13.49 http://www.bing.com
 3.71.84.71 https://dbwebb.se
 3.153.45.151 http://dbwebb.se
-3.153.45.151 https://dbwebb.se"
+3.153.45.151 https://dbwebb.se
 3.249.76.98 http://www.google.com
 3.132.161.36 http://ahrefs.com
 3.132.161.42 http://ahrefs.com
@@ -10701,7 +10701,7 @@
 3.80.31.174 http://ahrefs.com
 3.132.161.3 http://ahrefs.com
 3.255.65.37 http://ahrefs.com
-3.166.12.90 https://www.google.se"
+3.166.12.90 https://www.google.se
 3.249.76.102 http://www.google.com
 3.255.65.97 http://ahrefs.com
 3.77.167.63 http://www.bing.com
@@ -10771,7 +10771,7 @@
 3.55.39.29 http://www.bing.com
 3.77.167.63 http://www.bing.com
 3.89.74.177 https://www.google.se
-3.229.202.92 https://www.google.se"
+3.229.202.92 https://www.google.se
 3.229.202.92 https://dbwebb.se
 3.229.202.92 https://dbwebb.se
 3.229.202.92 https://dbwebb.se
@@ -11040,7 +11040,7 @@
 3.55.39.29 http://www.bing.com
 3.55.39.167 http://www.bing.com
 3.255.65.41 http://ahrefs.com
-3.112.103.178 https://www.google.se"
+3.112.103.178 https://www.google.se
 3.112.103.178 https://dbwebb.se
 3.112.103.178 https://dbwebb.se
 3.112.103.178 https://dbwebb.se
@@ -11048,7 +11048,7 @@
 3.112.103.178 https://dbwebb.se
 3.112.103.178 https://dbwebb.se
 3.112.103.178 https://dbwebb.se
-3.112.103.178 https://www.google.se"
+3.112.103.178 https://www.google.se
 3.112.103.178 https://dbwebb.se
 3.112.103.178 https://dbwebb.se
 3.112.103.178 https://dbwebb.se
@@ -12208,9 +12208,9 @@
 3.251.8.145 https://dbwebb.se
 3.251.8.145 https://dbwebb.se
 3.251.8.145 https://dbwebb.se
-3.218.243.103 https://www.google.se"
-3.218.243.103 https://www.google.se"
-3.218.243.103 https://www.google.se"
+3.218.243.103 https://www.google.se
+3.218.243.103 https://www.google.se
+3.218.243.103 https://www.google.se
 3.218.243.103 https://dbwebb.se
 3.218.243.103 https://dbwebb.se
 3.218.243.103 https://dbwebb.se
@@ -12239,7 +12239,7 @@
 3.46.13.49 http://www.bing.com
 3.30.234.2 http://www.majestic12.co.uk
 3.180.231.47 http://help.yahoo.com
-3.125.93.161 http://www.FeedBurner.com)"
+3.125.93.161 http://www.FeedBurner.com
 3.255.65.38 http://ahrefs.com
 3.30.234.2 http://www.majestic12.co.uk
 3.46.13.44 http://www.bing.com
@@ -12555,7 +12555,7 @@
 3.55.39.29 http://www.bing.com
 3.46.13.44 http://www.bing.com
 3.46.13.44 http://www.bing.com
-3.75.162.165 https://www.google.pl"
+3.75.162.165 https://www.google.pl
 3.217.138.211 https://dbwebb.se
 3.46.13.44 http://www.bing.com
 3.46.13.44 http://www.bing.com
@@ -12695,7 +12695,7 @@
 3.181.151.250 https://dbwebb.se
 3.181.151.250 https://dbwebb.se
 3.55.39.167 http://www.bing.com
-3.125.76.36 http://www.FeedBurner.com)"
+3.125.76.36 http://www.FeedBurner.com
 3.55.39.29 http://www.bing.com
 3.255.65.69 http://ahrefs.com
 3.55.39.151 http://www.bing.com
@@ -13129,8 +13129,8 @@
 3.55.39.29 http://www.bing.com
 3.55.39.29 http://www.bing.com
 3.189.162.27 http://dbwebb.se
-3.189.162.27 https://dbwebb.se"
-3.189.162.27 https://dbwebb.se"
+3.189.162.27 https://dbwebb.se
+3.189.162.27 https://dbwebb.se
 3.255.65.17 http://ahrefs.com
 3.236.17.39 http://OpenLinkProfiler.org
 3.236.17.39 https://www.dbwebb.se
@@ -14852,7 +14852,7 @@
 3.236.17.39 http://OpenLinkProfiler.org
 3.236.17.39 https://dbwebb.se
 3.236.17.39 http://OpenLinkProfiler.org
-3.125.76.99 http://www.FeedBurner.com)"
+3.125.76.99 http://www.FeedBurner.com
 3.236.17.39 https://dbwebb.se
 3.236.17.39 http://OpenLinkProfiler.org
 3.236.17.39 https://dbwebb.se
@@ -15719,7 +15719,7 @@
 3.55.39.151 http://www.bing.com
 3.249.76.100 http://www.google.com
 3.249.76.100 http://www.google.com
-3.194.94.100 http://www.FeedBurner.com)"
+3.194.94.100 http://www.FeedBurner.com
 3.55.39.29 http://www.bing.com
 3.255.2.82 http://dbwebb.se
 3.255.2.82 http://dbwebb.se
@@ -16263,11 +16263,11 @@
 3.180.231.47 http://help.yahoo.com
 3.255.65.5 http://ahrefs.com
 3.193.51.33 http://yandex.com
-3.218.186.82 http://levitraovercounteratwalmart.com"
-3.218.186.82 http://levitraovercounteratwalmart.com"
-3.218.186.82 http://levitraovercounteratwalmart.com"
-3.218.186.82 http://levitraovercounteratwalmart.com"
-3.218.186.82 http://levitraovercounteratwalmart.com"
+3.218.186.82 http://levitraovercounteratwalmart.com
+3.218.186.82 http://levitraovercounteratwalmart.com
+3.218.186.82 http://levitraovercounteratwalmart.com
+3.218.186.82 http://levitraovercounteratwalmart.com
+3.218.186.82 http://levitraovercounteratwalmart.com
 3.180.231.47 http://help.yahoo.com
 3.249.76.100 http://www.google.com
 3.180.231.47 http://help.yahoo.com
@@ -16337,11 +16337,11 @@
 3.200.12.7 https://dbwebb.se
 3.200.12.7 https://dbwebb.se
 3.200.12.7 https://dbwebb.se
-3.218.186.82 http://2014championships.org"
-3.218.186.82 http://2014championships.org"
-3.218.186.82 http://2014championships.org"
-3.218.186.82 http://2014championships.org"
-3.218.186.82 http://2014championships.org"
+3.218.186.82 http://2014championships.org
+3.218.186.82 http://2014championships.org
+3.218.186.82 http://2014championships.org
+3.218.186.82 http://2014championships.org
+3.218.186.82 http://2014championships.org
 3.249.76.102 http://www.google.com
 3.55.39.29 http://www.bing.com
 3.132.161.33 http://ahrefs.com
@@ -16499,11 +16499,11 @@
 3.55.39.29 http://www.bing.com
 3.249.76.98 http://www.google.com
 3.249.76.100 http://www.google.com
-3.218.186.82 http://cialiswithoutadoctorprescription.org"
-3.218.186.82 http://cialiswithoutadoctorprescription.org"
-3.218.186.82 http://cialiswithoutadoctorprescription.org"
-3.218.186.82 http://cialiswithoutadoctorprescription.org"
-3.218.186.82 http://cialiswithoutadoctorprescription.org"
+3.218.186.82 http://cialiswithoutadoctorprescription.org
+3.218.186.82 http://cialiswithoutadoctorprescription.org
+3.218.186.82 http://cialiswithoutadoctorprescription.org
+3.218.186.82 http://cialiswithoutadoctorprescription.org
+3.218.186.82 http://cialiswithoutadoctorprescription.org
 3.19.138.33 http://www.feedly.com
 3.180.231.47 http://help.yahoo.com
 3.180.231.47 http://help.yahoo.com
@@ -16513,11 +16513,11 @@
 3.46.13.143 http://www.bing.com
 3.29.198.26 http://www.feedly.com
 3.249.76.98 http://www.google.com
-3.218.186.82 http://genericviagrasildenafiled.net"
-3.218.186.82 http://genericviagrasildenafiled.net"
-3.218.186.82 http://genericviagrasildenafiled.net"
-3.218.186.82 http://genericviagrasildenafiled.net"
-3.218.186.82 http://genericviagrasildenafiled.net"
+3.218.186.82 http://genericviagrasildenafiled.net
+3.218.186.82 http://genericviagrasildenafiled.net
+3.218.186.82 http://genericviagrasildenafiled.net
+3.218.186.82 http://genericviagrasildenafiled.net
+3.218.186.82 http://genericviagrasildenafiled.net
 3.55.39.167 http://www.bing.com
 3.46.13.143 http://www.bing.com
 3.141.154.1 https://www.google.se
@@ -16578,7 +16578,7 @@
 3.170.128.109 https://dbwebb.se
 3.170.128.109 https://dbwebb.se
 3.170.128.109 https://dbwebb.se
-3.125.76.98 http://www.FeedBurner.com)"
+3.125.76.98 http://www.FeedBurner.com
 3.80.31.165 http://ahrefs.com
 3.46.13.143 http://www.bing.com
 3.46.13.143 http://www.bing.com
@@ -16789,7 +16789,7 @@
 3.133.98.33 http://dbwebb.se
 3.133.98.33 http://dbwebb.se
 3.249.76.102 http://www.google.com
-3.116.24.166 https://www.google.ro"
+3.116.24.166 https://www.google.ro
 3.249.76.102 http://www.google.com
 3.55.39.29 http://www.bing.com
 3.225.69.240 https://www.bing.com
@@ -17553,8 +17553,8 @@
 3.133.98.33 http://dbwebb.se
 3.46.13.143 http://www.bing.com
 3.46.13.143 http://www.bing.com
-3.233.220.155 https://www.google.se"
-3.233.220.155 https://www.google.se"
+3.233.220.155 https://www.google.se
+3.233.220.155 https://www.google.se
 3.233.220.155 https://dbwebb.se
 3.233.220.155 https://dbwebb.se
 3.233.220.155 https://dbwebb.se
@@ -18081,7 +18081,7 @@
 3.219.142.43 https://dbwebb.se
 3.55.39.29 http://www.bing.com
 3.55.39.151 http://www.bing.com
-3.250.29.47 https://www.google.se"
+3.250.29.47 https://www.google.se
 3.250.29.47 https://dbwebb.se
 3.250.29.47 https://dbwebb.se
 3.250.29.47 https://dbwebb.se
@@ -18095,7 +18095,7 @@
 3.250.29.47 https://dbwebb.se
 3.249.90.112 http://www.google.com
 3.249.76.100 http://www.google.com
-3.39.85.3 https://www.google.co.in"
+3.39.85.3 https://www.google.co.in
 3.55.39.167 http://www.bing.com
 3.55.39.151 http://www.bing.com
 3.55.39.151 http://www.bing.com
@@ -18183,7 +18183,7 @@
 3.236.148.27 https://dbwebb.se
 3.236.148.27 https://dbwebb.se
 3.236.148.27 https://dbwebb.se
-3.203.203.169 https://www.google.co.in"
+3.203.203.169 https://www.google.co.in
 3.216.134.24 https://dbwebb.se
 3.251.240.169 https://www.google.se
 3.55.39.29 http://www.bing.com
@@ -18227,7 +18227,7 @@
 3.19.138.33 http://www.feedly.com
 3.19.138.33 http://www.feedly.com
 3.175.116.73 http://www.linkdex.com
-3.125.76.97 http://www.FeedBurner.com)"
+3.125.76.97 http://www.FeedBurner.com
 3.46.13.143 http://www.bing.com
 3.211.182.44 https://www.google.se
 3.211.182.44 https://dbwebb.se
@@ -18741,7 +18741,7 @@
 3.132.161.37 http://ahrefs.com
 3.175.214.247 http://www.linkdex.com
 3.249.76.102 http://www.google.com
-3.21.125.78 https://www.google.co.in"
+3.21.125.78 https://www.google.co.in
 3.249.76.100 http://www.google.com
 3.55.39.151 http://www.bing.com
 3.132.161.97 http://ahrefs.com
@@ -19487,7 +19487,7 @@
 3.94.134.10 https://dbwebb.se
 3.46.13.144 http://www.bing.com
 3.46.13.143 http://www.bing.com
-3.69.184.128 https://www.google.se"
+3.69.184.128 https://www.google.se
 3.55.39.167 http://www.bing.com
 3.55.99.174 https://dbwebb.se
 3.55.39.167 http://www.bing.com
@@ -19559,7 +19559,7 @@
 3.55.99.174 https://dbwebb.se
 3.55.99.174 https://dbwebb.se
 3.55.99.174 https://dbwebb.se
-3.228.26.105 https://www.google.se"
+3.228.26.105 https://www.google.se
 3.228.26.105 https://dbwebb.se
 3.228.26.105 https://dbwebb.se
 3.228.26.105 https://dbwebb.se
@@ -19859,7 +19859,7 @@
 3.249.76.98 http://www.google.com
 3.55.39.29 http://www.bing.com
 3.46.13.144 http://www.bing.com
-3.21.117.13 https://www.google.se"
+3.21.117.13 https://www.google.se
 3.21.117.13 https://dbwebb.se
 3.21.117.13 https://dbwebb.se
 3.21.117.13 https://dbwebb.se
@@ -20527,7 +20527,7 @@
 3.248.172.109 https://dbwebb.se
 3.248.172.109 https://dbwebb.se
 3.248.172.109 https://dbwebb.se
-3.189.113.149 https://www.google.com"
+3.189.113.149 https://www.google.com
 3.113.99.53 https://dbwebb.se
 3.113.99.53 https://dbwebb.se
 3.132.161.37 http://ahrefs.com
@@ -20633,7 +20633,7 @@
 3.46.13.144 http://www.bing.com
 3.255.65.58 http://ahrefs.com
 3.132.161.75 http://ahrefs.com
-3.125.76.35 http://www.FeedBurner.com)"
+3.125.76.35 http://www.FeedBurner.com
 3.46.13.143 http://www.bing.com
 3.46.13.143 http://www.bing.com
 3.9.142.226 http://www.majestic12.co.uk
@@ -20971,8 +20971,8 @@
 3.77.79.77 https://dbwebb.se
 3.77.79.77 https://dbwebb.se
 3.189.162.27 http://dbwebb.se
-3.189.162.27 https://dbwebb.se"
-3.189.162.27 https://dbwebb.se"
+3.189.162.27 https://dbwebb.se
+3.189.162.27 https://dbwebb.se
 3.249.76.98 http://www.google.com
 3.229.67.136 https://dbwebb.se
 3.229.67.136 https://dbwebb.se
@@ -21034,7 +21034,7 @@
 3.55.39.16 http://www.bing.com
 3.55.39.16 http://www.bing.com
 3.255.65.60 http://ahrefs.com
-3.125.76.33 http://www.FeedBurner.com)"
+3.125.76.33 http://www.FeedBurner.com
 3.249.76.102 http://www.google.com
 3.136.100.90 https://dbwebb.se
 3.136.100.90 https://dbwebb.se
@@ -21278,7 +21278,7 @@
 3.249.76.98 http://www.google.com
 3.46.13.144 http://www.bing.com
 3.46.13.143 http://www.bing.com
-3.237.117.143 https://www.google.com"
+3.237.117.143 https://www.google.com
 3.180.231.47 http://help.yahoo.com
 3.55.39.16 http://www.bing.com
 3.249.76.98 http://www.google.com
@@ -21632,7 +21632,7 @@
 3.77.167.9 http://www.bing.com
 3.255.65.4 http://ahrefs.com
 3.255.65.38 http://ahrefs.com
-3.125.76.97 http://www.FeedBurner.com)"
+3.125.76.97 http://www.FeedBurner.com
 3.249.76.98 http://www.google.com
 3.255.65.6 http://ahrefs.com
 3.249.93.81 http://www.google.com
@@ -21745,7 +21745,7 @@
 3.55.39.16 http://www.bing.com
 3.55.39.16 http://www.bing.com
 3.77.167.9 http://www.bing.com
-3.162.144.5 https://www.google.com"
+3.162.144.5 https://www.google.com
 3.46.13.144 http://www.bing.com
 3.132.161.75 http://ahrefs.com
 3.55.39.16 http://www.bing.com
@@ -21823,7 +21823,7 @@
 3.77.167.9 http://www.bing.com
 3.55.39.16 http://www.bing.com
 3.255.65.63 http://ahrefs.com
-3.148.27.50 https://www.google.com"
+3.148.27.50 https://www.google.com
 3.46.13.143 http://www.bing.com
 3.79.55.95 https://dbwebb.se
 3.79.55.95 https://dbwebb.se
@@ -22853,7 +22853,7 @@
 3.77.167.9 http://www.bing.com
 3.132.161.56 http://ahrefs.com
 3.46.13.144 http://search.msn.com
-3.125.76.98 http://www.FeedBurner.com)"
+3.125.76.98 http://www.FeedBurner.com
 3.46.13.143 http://www.bing.com
 3.229.67.136 https://dbwebb.se
 3.229.67.136 https://dbwebb.se
@@ -23025,7 +23025,7 @@
 3.132.161.47 http://ahrefs.com
 3.255.65.60 http://ahrefs.com
 3.55.39.16 http://www.bing.com
-3.125.76.99 http://www.FeedBurner.com)"
+3.125.76.99 http://www.FeedBurner.com
 3.46.13.143 http://www.bing.com
 3.77.167.9 http://www.bing.com
 3.47.143.78 https://dbwebb.se
@@ -23104,7 +23104,7 @@
 3.107.129.67 https://dbwebb.se
 3.107.129.67 https://dbwebb.se
 3.107.129.67 https://dbwebb.se
-3.113.41.138 https://www.google.se"
+3.113.41.138 https://www.google.se
 3.113.41.138 https://dbwebb.se
 3.46.13.143 http://www.bing.com
 3.47.143.78 https://dbwebb.se
@@ -24800,7 +24800,7 @@
 3.80.64.2 https://dbwebb.se
 3.80.64.2 https://dbwebb.se
 3.80.64.2 https://dbwebb.se
-3.125.76.36 http://www.FeedBurner.com)"
+3.125.76.36 http://www.FeedBurner.com
 3.80.64.2 https://dbwebb.se
 3.255.65.80 http://ahrefs.com
 3.69.133.222 http://go.mail.ru
@@ -25539,7 +25539,7 @@
 3.122.198.159 https://dbwebb.se
 3.122.198.159 https://dbwebb.se
 3.80.64.2 https://dbwebb.se
-3.20.92.120 https://www.google.se"
+3.20.92.120 https://www.google.se
 3.80.64.2 https://keep.google.com
 3.255.195.211 https://dbwebb.se
 3.255.195.211 https://dbwebb.se
@@ -25654,7 +25654,7 @@
 3.170.209.45 https://dbwebb.se
 3.255.195.211 https://dbwebb.se
 3.249.76.98 http://www.google.com
-3.165.203.64 https://www.google.com"
+3.165.203.64 https://www.google.com
 3.180.231.47 http://help.yahoo.com
 3.255.195.211 https://dbwebb.se
 3.70.142.47 https://dbwebb.se
@@ -26244,7 +26244,7 @@
 3.55.39.16 http://search.msn.com
 3.249.76.98 http://www.google.com
 3.255.65.23 http://ahrefs.com
-3.39.180.205 https://www.google.com.br"
+3.39.180.205 https://www.google.com.br
 3.39.180.205 https://dbwebb.se
 3.67.72.81 https://www.google.se
 3.67.72.81 https://dbwebb.se
@@ -27136,7 +27136,7 @@
 3.172.235.237 https://dbwebb.se
 3.229.63.241 https://dbwebb.se
 3.173.201.120 https://dbwebb.se
-3.188.199.87 https://www.google.at"
+3.188.199.87 https://www.google.at
 3.94.213.66 https://dbwebb.se
 3.217.132.196 https://dbwebb.se
 3.152.243.121 https://dbwebb.se
@@ -27460,12 +27460,12 @@
 3.55.39.16 http://www.bing.com
 3.106.57.131 https://www.ixquick.com
 3.106.57.131 https://www.ixquick.com
-3.148.65.18 https://www.google.co.jp"
+3.148.65.18 https://www.google.co.jp
 3.150.15.131 https://dbwebb.se
 3.150.15.131 https://dbwebb.se
 3.150.15.131 https://dbwebb.se
 3.150.15.131 https://dbwebb.se
-3.148.65.18 https://www.google.co.jp"
+3.148.65.18 https://www.google.co.jp
 3.150.15.131 https://dbwebb.se
 3.148.65.18 https://dbwebb.se
 3.150.15.131 https://dbwebb.se
@@ -27504,7 +27504,7 @@
 3.249.76.100 http://www.google.com
 3.249.76.102 http://www.google.com
 3.77.167.9 http://www.bing.com
-3.136.64.85 https://www.google.se"
+3.136.64.85 https://www.google.se
 3.68.92.240 https://dbwebb.se
 3.68.92.240 https://dbwebb.se
 3.68.92.240 https://dbwebb.se
@@ -27861,7 +27861,7 @@
 3.208.54.114 https://dbwebb.se
 3.208.54.114 https://dbwebb.se
 3.208.54.114 https://dbwebb.se
-3.125.76.98 http://www.FeedBurner.com)"
+3.125.76.98 http://www.FeedBurner.com
 3.76.14.15 http://www.trendiction.de
 3.76.14.15 http://www.trendiction.de
 3.76.14.15 http://www.trendiction.de
@@ -28435,7 +28435,7 @@
 3.255.65.48 http://ahrefs.com
 3.132.161.25 http://ahrefs.com
 3.255.65.23 http://ahrefs.com
-3.140.27.183 https://www.google.fr"
+3.140.27.183 https://www.google.fr
 3.227.222.71 https://dbwebb.se
 3.249.76.98 http://www.google.com
 3.249.76.98 http://www.google.com
@@ -28569,7 +28569,7 @@
 3.237.165.165 https://dbwebb.se
 3.237.165.165 https://dbwebb.se
 3.237.165.165 https://dbwebb.se
-3.110.45.175 https://www.google.se"
+3.110.45.175 https://www.google.se
 3.110.45.175 https://dbwebb.se
 3.110.45.175 https://dbwebb.se
 3.110.45.175 https://dbwebb.se
@@ -28708,7 +28708,7 @@
 3.150.15.159 https://dbwebb.se
 3.150.15.159 https://dbwebb.se
 3.46.13.143 http://www.bing.com
-3.250.69.202 https://www.google.se"
+3.250.69.202 https://www.google.se
 3.250.69.202 https://dbwebb.se
 3.46.13.143 http://www.bing.com
 3.249.76.98 http://www.google.com
@@ -28893,7 +28893,7 @@
 3.200.12.106 https://dbwebb.se
 3.200.12.106 https://dbwebb.se
 3.132.161.18 http://ahrefs.com
-3.116.24.166 https://www.google.ro"
+3.116.24.166 https://www.google.ro
 3.255.7.20 https://www.google.com.pk
 3.74.38.79 https://dbwebb.se
 3.74.38.79 https://dbwebb.se
@@ -28985,7 +28985,7 @@
 3.183.4.134 https://dbwebb.se
 3.183.4.134 https://dbwebb.se
 3.183.4.134 https://dbwebb.se
-3.184.247.171 https://www.google.dk"
+3.184.247.171 https://www.google.dk
 3.184.247.171 https://dbwebb.se
 3.184.247.171 https://dbwebb.se
 3.184.247.171 https://dbwebb.se
@@ -30346,7 +30346,7 @@
 3.195.129.206 https://dbwebb.se
 3.77.167.9 http://www.bing.com
 3.113.99.65 https://dbwebb.se
-3.75.255.19 https://www.google.gr"
+3.75.255.19 https://www.google.gr
 3.46.13.144 http://www.bing.com
 3.113.99.65 https://dbwebb.se
 3.113.99.65 https://dbwebb.se
@@ -30583,7 +30583,7 @@
 3.46.13.143 http://www.bing.com
 3.219.142.43 https://dbwebb.se
 3.219.142.43 https://dbwebb.se
-3.218.42.24 https://www.google.com"
+3.218.42.24 https://www.google.com
 3.218.42.24 https://dbwebb.se
 3.218.42.18 https://dbwebb.se
 3.218.42.18 https://dbwebb.se
@@ -30881,7 +30881,7 @@
 3.180.231.47 http://help.yahoo.com
 3.114.199.16 https://dbwebb.se
 3.180.231.47 http://help.yahoo.com
-3.20.88.5 https://www.google.de"
+3.20.88.5 https://www.google.de
 3.114.199.16 https://dbwebb.se
 3.224.147.241 https://dbwebb.se
 3.249.76.100 http://www.google.com
@@ -30936,7 +30936,7 @@
 3.224.147.241 https://dbwebb.se
 3.55.39.16 http://www.bing.com
 3.224.147.241 https://dbwebb.se
-3.55.49.200 https://www.google.com"
+3.55.49.200 https://www.google.com
 3.77.167.9 http://www.bing.com
 3.77.167.9 http://www.bing.com
 3.46.13.144 http://www.bing.com
@@ -30990,10 +30990,10 @@
 3.46.13.143 http://www.bing.com
 3.249.76.102 http://www.google.com
 3.77.167.9 http://search.msn.com
-3.25.87.231 https://www.google.pl"
+3.25.87.231 https://www.google.pl
 3.122.132.64 https://www.google.se
 3.249.76.102 http://www.google.com
-3.153.89.150 https://www.google.de"
+3.153.89.150 https://www.google.de
 3.254.23.14 https://www.google.se
 3.254.23.14 https://www.google.se
 3.254.23.14 https://dbwebb.se
@@ -31064,7 +31064,7 @@
 3.68.92.240 https://dbwebb.se
 3.68.92.240 https://dbwebb.se
 3.68.92.240 https://dbwebb.se
-3.95.237.157 https://dbwebb.se"
+3.95.237.157 https://dbwebb.se
 3.77.167.9 http://www.bing.com
 3.77.167.9 http://www.bing.com
 3.249.76.98 http://www.google.com
@@ -31192,7 +31192,7 @@
 3.46.13.143 http://www.bing.com
 3.46.13.144 http://www.bing.com
 3.46.13.144 http://www.bing.com
-3.125.76.32 http://www.FeedBurner.com)"
+3.125.76.32 http://www.FeedBurner.com
 3.195.39.115 https://dbwebb.se
 3.195.39.115 https://dbwebb.se
 3.195.39.115 https://dbwebb.se
@@ -31702,7 +31702,7 @@
 3.84.67.73 https://www.google.com
 3.249.90.109 http://www.google.com
 3.46.13.143 http://www.bing.com
-3.125.76.36 http://www.FeedBurner.com)"
+3.125.76.36 http://www.FeedBurner.com
 3.46.13.143 http://www.bing.com
 3.46.13.144 http://www.bing.com
 3.46.13.143 http://www.bing.com
@@ -31991,7 +31991,7 @@
 3.249.76.98 http://www.google.com
 3.77.167.9 http://www.bing.com
 3.210.176.68 https://www.itslearning.com
-3.82.196.84 https://www.google.co.in"
+3.82.196.84 https://www.google.co.in
 3.55.39.16 http://www.bing.com
 3.249.76.100 http://www.google.com
 3.55.39.16 http://www.bing.com
@@ -32051,7 +32051,7 @@
 3.77.167.9 http://www.bing.com
 3.77.167.9 http://www.bing.com
 3.77.167.9 http://www.bing.com
-3.194.90.97 http://www.FeedBurner.com)"
+3.194.90.97 http://www.FeedBurner.com
 3.77.167.9 http://www.bing.com
 3.184.199.230 https://dbwebb.se
 3.184.199.230 https://dbwebb.se
@@ -32164,7 +32164,7 @@
 3.100.76.2 https://dbwebb.se
 3.100.76.2 https://dbwebb.se
 3.100.76.2 https://dbwebb.se
-3.127.112.160 https://www.google.com"
+3.127.112.160 https://www.google.com
 3.67.192.140 https://dbwebb.se
 3.67.192.140 https://dbwebb.se
 3.67.192.140 https://dbwebb.se
@@ -32774,7 +32774,7 @@
 3.77.167.9 http://www.bing.com
 3.249.76.100 http://www.google.com
 3.232.174.181 https://www.google.se
-3.195.41.182 https://www.google.se"
+3.195.41.182 https://www.google.se
 3.195.41.182 https://dbwebb.se
 3.195.41.182 https://dbwebb.se
 3.195.41.182 https://dbwebb.se
@@ -32887,7 +32887,7 @@
 3.46.13.144 http://www.bing.com
 3.46.13.143 http://www.bing.com
 3.103.38.0 https://dbwebb.se
-3.125.93.161 http://www.FeedBurner.com)"
+3.125.93.161 http://www.FeedBurner.com
 3.42.74.253 https://www.google.se
 3.42.74.253 https://dbwebb.se
 3.42.74.253 https://dbwebb.se
@@ -33214,7 +33214,7 @@
 3.211.168.2 https://dbwebb.se
 3.211.168.2 https://dbwebb.se
 3.180.231.47 http://help.yahoo.com
-3.249.242.12 https://www.google.co.in"
+3.249.242.12 https://www.google.co.in
 3.180.231.47 http://help.yahoo.com
 3.55.39.16 http://www.bing.com
 3.88.14.76 https://dbwebb.se
@@ -33506,7 +33506,7 @@
 3.77.167.9 http://www.bing.com
 3.68.82.234 https://dbwebb.se
 3.68.82.234 https://dbwebb.se
-3.125.76.97 http://www.FeedBurner.com)"
+3.125.76.97 http://www.FeedBurner.com
 3.80.64.8 https://dbwebb.se
 3.80.64.8 https://dbwebb.se
 3.113.241.79 https://www.itslearning.com
@@ -34122,7 +34122,7 @@
 3.77.167.9 http://www.bing.com
 3.77.167.9 http://www.bing.com
 3.183.4.134 https://dbwebb.se
-3.60.137.208 https://www.google.co.in"
+3.60.137.208 https://www.google.co.in
 3.47.137.22 https://dbwebb.se
 3.55.39.16 http://www.bing.com
 3.47.137.22 https://dbwebb.se
@@ -34274,7 +34274,7 @@
 3.195.209.100 https://dbwebb.se
 3.195.209.100 https://dbwebb.se
 3.195.209.100 https://dbwebb.se
-3.174.5.117 http://www.linkedin.com)"
+3.174.5.117 http://www.linkedin.com
 3.183.4.134 https://dbwebb.se
 3.46.13.144 http://www.bing.com
 3.55.39.16 http://www.bing.com
@@ -34486,7 +34486,7 @@
 3.251.73.138 https://dbwebb.se
 3.251.73.138 https://dbwebb.se
 3.213.239.134 https://dbwebb.se
-3.172.236.40 https://dbwebb.se"
+3.172.236.40 https://dbwebb.se
 3.67.165.14 https://dbwebb.se
 3.249.76.98 http://www.google.com
 3.251.73.138 https://dbwebb.se
@@ -35518,7 +35518,7 @@
 3.200.12.7 https://dbwebb.se
 3.200.12.7 https://dbwebb.se
 3.200.12.7 https://dbwebb.se
-3.125.93.162 http://www.FeedBurner.com)"
+3.125.93.162 http://www.FeedBurner.com
 3.77.167.9 http://www.bing.com
 3.238.208.200 https://dbwebb.se
 3.238.208.200 https://dbwebb.se
@@ -35875,7 +35875,7 @@
 3.68.178.77 https://dbwebb.se
 3.68.178.77 https://dbwebb.se
 3.100.22.82 https://dbwebb.se
-3.178.108.9 https://www.google.co.in"
+3.178.108.9 https://www.google.co.in
 3.68.178.77 https://dbwebb.se
 3.68.178.77 https://dbwebb.se
 3.88.131.10 https://www.google.se
@@ -36328,14 +36328,14 @@
 3.208.61.234 https://dbwebb.se
 3.208.61.234 https://dbwebb.se
 3.208.61.234 https://dbwebb.se
-3.208.61.234 https://www.google.se"
+3.208.61.234 https://www.google.se
 3.208.61.234 http://cc1.dbwebb.se
 3.113.241.79 https://www.itslearning.com
 3.113.241.79 https://dbwebb.se
 3.113.241.79 https://dbwebb.se
 3.8.183.16 http://yandex.com
 3.46.13.144 http://www.bing.com
-3.208.61.234 https://www.google.se"
+3.208.61.234 https://www.google.se
 3.208.61.234 https://dbwebb.se
 3.208.61.234 https://dbwebb.se
 3.208.61.234 https://dbwebb.se
@@ -36935,7 +36935,7 @@
 3.99.27.218 https://dbwebb.se
 3.99.27.218 https://dbwebb.se
 3.46.13.144 http://www.bing.com
-3.47.149.188 https://www.google.com"
+3.47.149.188 https://www.google.com
 3.249.90.109 http://www.google.com
 3.46.13.143 http://www.bing.com
 3.66.253.178 https://www.google.com.gh
@@ -36949,7 +36949,7 @@
 3.46.13.143 http://www.bing.com
 3.180.231.47 http://help.yahoo.com
 3.46.13.143 http://www.bing.com
-3.125.76.35 http://www.FeedBurner.com)"
+3.125.76.35 http://www.FeedBurner.com
 3.76.14.15 http://www.trendiction.de
 3.76.14.15 http://www.trendiction.de
 3.76.14.15 http://www.trendiction.de
@@ -36984,7 +36984,7 @@
 3.47.137.63 https://dbwebb.se
 3.47.137.22 https://dbwebb.se
 3.47.137.22 https://dbwebb.se
-3.24.168.4 https://www.google.se"
+3.24.168.4 https://www.google.se
 3.24.168.4 https://dbwebb.se
 3.24.168.4 https://dbwebb.se
 3.24.168.4 https://dbwebb.se
@@ -37252,12 +37252,12 @@
 3.46.13.144 http://www.bing.com
 3.46.13.143 http://www.bing.com
 3.249.76.100 http://www.google.com
-3.92.24.100 https://www.google.ch"
+3.92.24.100 https://www.google.ch
 3.46.13.144 http://www.bing.com
 3.46.13.143 http://www.bing.com
 3.109.16.212 https://dbwebb.se
 3.109.16.212 https://dbwebb.se
-3.61.220.34 https://www.google.com"
+3.61.220.34 https://www.google.com
 3.47.137.34 https://dbwebb.se
 3.47.137.34 https://dbwebb.se
 3.47.137.34 https://dbwebb.se
@@ -37355,7 +37355,7 @@
 3.77.167.9 http://www.bing.com
 3.46.13.144 http://www.bing.com
 3.46.13.144 http://www.bing.com
-3.230.209.141 https://www.google.se"
+3.230.209.141 https://www.google.se
 3.230.209.141 https://dbwebb.se
 3.230.209.141 https://dbwebb.se
 3.230.209.141 https://dbwebb.se
@@ -37461,7 +37461,7 @@
 3.251.144.46 https://dbwebb.se
 3.251.144.46 https://dbwebb.se
 3.251.144.46 https://dbwebb.se
-3.228.26.105 https://www.google.se"
+3.228.26.105 https://www.google.se
 3.228.26.105 https://dbwebb.se
 3.251.144.46 https://dbwebb.se
 3.249.76.98 http://www.google.com
@@ -37846,7 +37846,7 @@
 3.180.231.47 http://help.yahoo.com
 3.19.138.33 http://www.feedly.com
 3.209.223.159 https://www.google.se
-3.210.177.241 https://dbwebb.se"
+3.210.177.241 https://dbwebb.se
 3.94.134.10 https://dbwebb.se
 3.249.76.100 http://www.google.com
 3.234.170.150 https://www.google.se
@@ -37858,7 +37858,7 @@
 3.170.234.228 https://dbwebb.se
 3.170.234.228 https://dbwebb.se
 3.170.234.228 https://dbwebb.se
-3.131.96.210 https://www.google.com"
+3.131.96.210 https://www.google.com
 3.46.13.143 http://www.bing.com
 3.77.167.9 http://www.bing.com
 3.77.167.9 http://www.bing.com
@@ -37908,7 +37908,7 @@
 3.251.144.46 https://dbwebb.se
 3.251.144.46 https://dbwebb.se
 3.251.144.46 https://dbwebb.se
-3.125.76.100 http://www.FeedBurner.com)"
+3.125.76.100 http://www.FeedBurner.com
 3.251.144.46 https://dbwebb.se
 3.249.76.102 http://www.google.com
 3.249.76.100 http://www.google.com
@@ -38097,7 +38097,7 @@
 3.8.125.132 https://www.google.es
 3.249.76.102 http://www.google.com
 3.249.76.100 http://www.google.com
-3.228.26.105 https://www.google.se"
+3.228.26.105 https://www.google.se
 3.228.26.105 https://dbwebb.se
 3.228.26.105 https://dbwebb.se
 3.228.26.105 https://dbwebb.se
@@ -38201,7 +38201,7 @@
 3.250.208.219 https://dbwebb.se
 3.250.208.219 https://dbwebb.se
 3.77.167.9 http://www.bing.com
-3.250.69.202 https://www.google.se"
+3.250.69.202 https://www.google.se
 3.229.7.3 https://dbwebb.se
 3.229.7.3 https://dbwebb.se
 3.229.7.3 https://dbwebb.se
@@ -38260,7 +38260,7 @@
 3.251.167.82 https://dbwebb.se
 3.55.39.16 http://www.bing.com
 3.55.39.16 http://www.bing.com
-3.250.208.219 https://www.google.se"
+3.250.208.219 https://www.google.se
 3.250.208.219 https://dbwebb.se
 3.250.208.219 https://dbwebb.se
 3.250.208.219 https://dbwebb.se
@@ -38288,16 +38288,16 @@
 3.55.39.16 http://www.bing.com
 3.251.167.82 https://dbwebb.se
 3.249.76.102 http://www.google.com
-3.250.208.219 https://www.google.se"
+3.250.208.219 https://www.google.se
 3.75.79.95 http://napoveda.seznam.cz
 3.75.79.95 http://napoveda.seznam.cz
 3.2.236.102 https://www.google.cz
-3.250.208.219 https://www.google.se"
+3.250.208.219 https://www.google.se
 3.250.208.219 https://dbwebb.se
 3.46.13.143 http://www.bing.com
 3.219.142.43 https://dbwebb.se
 3.170.234.228 https://dbwebb.se
-3.250.208.219 https://www.google.se"
+3.250.208.219 https://www.google.se
 3.250.208.219 https://dbwebb.se
 3.250.208.219 https://dbwebb.se
 3.250.208.219 https://dbwebb.se
@@ -38714,7 +38714,7 @@
 3.77.167.9 http://www.bing.com
 3.180.231.47 http://help.yahoo.com
 3.180.231.47 http://help.yahoo.com
-3.31.183.38 https://www.google.com"
+3.31.183.38 https://www.google.com
 3.249.93.76 http://www.google.com
 3.102.6.145 http://www.google.com
 3.249.84.247 http://www.google.com
@@ -38790,7 +38790,7 @@
 3.76.4.148 http://www.majestic12.co.uk
 3.229.183.245 https://dbwebb.se
 3.76.4.148 http://www.majestic12.co.uk
-3.1.216.53 https://www.google.hu"
+3.1.216.53 https://www.google.hu
 3.76.4.148 http://www.majestic12.co.uk
 3.67.165.14 https://dbwebb.se
 3.214.152.240 https://dbwebb.se
@@ -38929,7 +38929,7 @@
 3.251.243.80 https://dbwebb.se
 3.251.243.80 https://dbwebb.se
 3.251.243.80 https://dbwebb.se
-3.97.197.136 https://www.google.com"
+3.97.197.136 https://www.google.com
 3.254.26.11 https://dbwebb.se
 3.251.243.80 https://dbwebb.se
 3.251.243.80 https://dbwebb.se
@@ -38938,7 +38938,7 @@
 3.254.26.11 https://dbwebb.se
 3.254.26.11 https://dbwebb.se
 3.193.51.33 http://yandex.com
-3.252.50.236 https://www.google.se"
+3.252.50.236 https://www.google.se
 3.252.50.236 https://dbwebb.se
 3.254.26.11 https://dbwebb.se
 3.251.243.80 https://dbwebb.se
@@ -39555,8 +39555,8 @@
 3.114.199.16 https://dbwebb.se
 3.114.199.16 https://dbwebb.se
 3.114.199.16 https://dbwebb.se
-3.0.59.55 http://194.47.150.9
-3.0.59.55 http://www.bloglovin.com;
+3.0.59.55 http://
+3.0.59.55 http://www.bloglovin.com
 3.254.150.56 https://dbwebb.se
 3.114.199.16 https://dbwebb.se
 3.114.199.16 https://dbwebb.se
@@ -39602,7 +39602,7 @@
 3.113.99.233 https://dbwebb.se
 3.113.99.233 https://dbwebb.se
 3.254.150.56 https://dbwebb.se
-3.229.141.226 https://www.google.se"
+3.229.141.226 https://www.google.se
 3.55.39.16 http://www.bing.com
 3.114.76.75 http://www.google.com
 3.254.150.56 https://dbwebb.se
@@ -40081,7 +40081,7 @@
 3.46.13.144 http://www.bing.com
 3.77.167.9 http://www.bing.com
 3.46.13.144 http://www.bing.com
-3.125.189.98 http://www.FeedBurner.com)"
+3.125.189.98 http://www.FeedBurner.com
 3.46.13.143 http://www.bing.com
 3.77.167.9 http://www.bing.com
 3.55.39.16 http://www.bing.com
@@ -40856,7 +40856,7 @@
 3.249.76.98 http://www.google.com
 3.77.167.9 http://search.msn.com
 3.249.76.100 http://www.google.com
-3.237.177.12 http://dbwebb.se"
+3.237.177.12 http://dbwebb.se
 3.46.13.144 http://www.bing.com
 3.77.167.9 http://www.bing.com
 3.77.167.9 http://www.bing.com
@@ -41402,7 +41402,7 @@
 3.249.76.98 http://www.google.com
 3.96.91.77 https://www.google.com.ph
 3.77.167.9 http://www.bing.com
-3.125.76.98 http://www.FeedBurner.com)"
+3.125.76.98 http://www.FeedBurner.com
 3.249.76.98 http://www.google.com
 3.249.76.100 http://www.google.com
 3.249.76.98 http://www.google.com
@@ -42978,7 +42978,7 @@
 3.95.76.2 https://dbwebb.se
 3.95.76.2 https://dbwebb.se
 3.95.76.2 https://dbwebb.se
-3.194.94.100 http://www.FeedBurner.com)"
+3.194.94.100 http://www.FeedBurner.com
 3.125.71.85 http://www.baidu.com
 3.227.89.252 https://dbwebb.se
 3.227.89.252 https://dbwebb.se
@@ -42999,7 +42999,7 @@
 3.46.13.144 http://www.bing.com
 3.233.14.148 https://dbwebb.se
 3.55.39.16 http://www.bing.com
-3.125.76.96 http://www.FeedBurner.com)"
+3.125.76.96 http://www.FeedBurner.com
 3.76.15.27 http://www.baidu.com
 3.46.13.144 http://www.bing.com
 3.249.76.98 http://www.google.com
@@ -43285,7 +43285,7 @@
 3.100.22.82 https://dbwebb.se
 3.161.25.124 https://dbwebb.se
 3.161.25.124 https://dbwebb.se
-3.95.76.2 https://www.google.se"
+3.95.76.2 https://www.google.se
 3.95.76.2 https://dbwebb.se
 3.95.76.2 https://dbwebb.se
 3.95.76.2 https://dbwebb.se
@@ -43442,7 +43442,7 @@
 3.77.167.9 http://www.bing.com
 3.46.13.143 http://www.bing.com
 3.208.61.234 https://dbwebb.se
-3.125.93.161 http://www.FeedBurner.com)"
+3.125.93.161 http://www.FeedBurner.com
 3.107.129.67 https://dbwebb.se
 3.107.129.67 https://dbwebb.se
 3.107.129.67 https://dbwebb.se
@@ -43704,7 +43704,7 @@
 3.107.129.67 https://dbwebb.se
 3.107.129.67 https://dbwebb.se
 3.107.129.67 https://dbwebb.se
-3.249.42.188 https://www.google.se"
+3.249.42.188 https://www.google.se
 3.107.129.67 https://dbwebb.se
 3.249.42.188 https://dbwebb.se
 3.249.42.188 https://dbwebb.se
@@ -43719,8 +43719,8 @@
 3.249.42.188 https://dbwebb.se
 3.249.42.188 https://dbwebb.se
 3.249.42.188 https://dbwebb.se
-3.217.228.253 https://dbwebb.se"
-3.217.228.253 https://dbwebb.se"
+3.217.228.253 https://dbwebb.se
+3.217.228.253 https://dbwebb.se
 3.107.129.67 https://dbwebb.se
 3.107.129.67 https://dbwebb.se
 3.107.129.67 https://dbwebb.se
@@ -43805,7 +43805,7 @@
 3.180.231.47 http://help.yahoo.com
 3.4.72.55 https://dbwebb.se
 3.4.72.55 https://dbwebb.se
-3.196.163.157 https://discordapp.com)"
+3.196.163.157 https://discordapp.com
 3.160.57.19 https://dbwebb.se
 3.160.57.19 https://dbwebb.se
 3.160.57.19 https://dbwebb.se
@@ -43941,7 +43941,7 @@
 3.68.137.252 https://dbwebb.se
 3.68.137.252 https://dbwebb.se
 3.77.167.9 http://www.bing.com
-3.254.150.56 https://www.facebook.com"
+3.254.150.56 https://www.facebook.com
 3.254.150.56 https://dbwebb.se
 3.254.150.56 https://dbwebb.se
 3.254.150.56 https://dbwebb.se
@@ -44184,7 +44184,7 @@
 3.225.38.148 https://dbwebb.se
 3.225.38.148 https://dbwebb.se
 3.225.38.148 https://dbwebb.se
-3.189.25.14 https://www.google.de"
+3.189.25.14 https://www.google.de
 3.46.13.143 http://www.bing.com
 3.76.165.157 https://dbwebb.se
 3.46.13.143 http://www.bing.com
@@ -44311,7 +44311,7 @@
 3.249.76.98 http://www.google.com
 3.226.13.249 https://dbwebb.se
 3.46.13.144 http://www.bing.com
-3.125.189.98 http://www.FeedBurner.com)"
+3.125.189.98 http://www.FeedBurner.com
 3.226.13.249 https://dbwebb.se
 3.226.13.249 https://dbwebb.se
 3.226.13.249 https://dbwebb.se
@@ -44352,7 +44352,7 @@
 3.19.138.33 http://www.feedly.com
 3.226.13.249 https://dbwebb.se
 3.226.13.249 https://dbwebb.se
-3.70.114.209 https://www.google.co.in"
+3.70.114.209 https://www.google.co.in
 3.249.76.100 http://www.google.com
 3.249.76.98 http://www.google.com
 3.10.141.194 https://dbwebb.se
@@ -44406,7 +44406,7 @@
 3.46.13.143 http://www.bing.com
 3.46.13.143 http://www.bing.com
 3.226.13.249 https://dbwebb.se
-3.105.92.194 https://www.google.fi"
+3.105.92.194 https://www.google.fi
 3.105.92.194 https://dbwebb.se
 3.47.137.54 https://dbwebb.se
 3.226.13.249 https://dbwebb.se
@@ -44417,7 +44417,7 @@
 3.226.13.249 https://dbwebb.se
 3.47.137.54 https://www.google.se
 3.249.76.100 http://www.google.com
-3.203.216.148 https://www.google.com.ph"
+3.203.216.148 https://www.google.com.ph
 3.227.89.252 https://dbwebb.se
 3.227.89.252 https://dbwebb.se
 3.227.89.252 https://dbwebb.se
@@ -44712,7 +44712,7 @@
 3.46.13.144 http://www.bing.com
 3.46.13.144 http://www.bing.com
 3.46.13.144 http://www.bing.com
-3.125.189.98 http://www.FeedBurner.com)"
+3.125.189.98 http://www.FeedBurner.com
 3.47.137.63 https://dbwebb.se
 3.254.32.6 http://www.majestic12.co.uk
 3.47.137.63 https://dbwebb.se
@@ -44736,7 +44736,7 @@
 3.224.159.3 https://dbwebb.se
 3.47.137.63 https://dbwebb.se
 3.180.231.47 http://help.yahoo.com
-3.206.183.136 https://www.google.se"
+3.206.183.136 https://www.google.se
 3.206.183.136 https://dbwebb.se
 3.206.183.136 https://dbwebb.se
 3.206.183.136 https://dbwebb.se
@@ -44998,11 +44998,11 @@
 3.209.200.249 https://dbwebb.se
 3.209.200.249 https://dbwebb.se
 3.209.200.249 https://dbwebb.se
-3.216.221.171 https://www.google.se"
+3.216.221.171 https://www.google.se
 3.86.72.163 http://dbwebb.se
 3.86.72.163 http://dbwebb.se
 3.86.72.163 http://dbwebb.se
-3.168.140.136 https://www.google.se"
+3.168.140.136 https://www.google.se
 3.86.72.163 http://dbwebb.se
 3.168.140.136 https://dbwebb.se
 3.86.72.163 http://dbwebb.se

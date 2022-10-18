@@ -2,7 +2,7 @@
 
 #
 # Formates url from file as e.g,
-# http://123abc.com or https://123abc.com
+# http://www.123abc.com or https://www.123abc.com
 #
 function urlFormated(inputstring) {
     split(inputstring, outputarray, "/")
@@ -13,10 +13,16 @@ function urlFormated(inputstring) {
     if (url1 ~ /https:/) {
         url1 = "https://"
     }
+
     url2 = outputarray[3]
-    if (url2 ~ /\W$/) {
-        url2 = substr(1, length(url2)-1)
+    split(url2, chars, "")
+    sliceIndex = 0
+    startIndex = length(url2)
+    while (chars[startIndex] ~ /[^a-zA-Z\d\s:]/) {
+        sliceIndex++
+        startIndex--
     }
+    url2 = substr(url2, 1, length(url2)-sliceIndex)
     returnString = url1""url2
     
     return returnString
