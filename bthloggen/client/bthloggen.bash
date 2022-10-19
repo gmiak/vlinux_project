@@ -36,11 +36,16 @@ function usage
         " Usage: $SCRIPT [options] <command> [arguments]."
         ""
         " Commands available:"
-        "    url                        Get url to view the server in browser."
-        "    view                       List all entries."
-        "    view url <url>             View all entries containing <url>."
-        "    view ip <ip>               View all entries containing <ip>."
-        "    use <server>               Sets the servername (localhost or service name)."  
+        "    url                                      Get url to view the server in browser."
+        "    view                                     List all entries."
+        "    view url <url>                           View all entries containing <url>."
+        "    view ip <ip>                             View all entries containing <ip>."
+        "    use <server>                             Sets the servername (localhost or service name)."  
+        "    view month <month>                       Shows data that contains the given month <month>."
+        "    view day <day>                           Shows data that contains the given day <day>."
+        "    view time <time>                         Shows data that contains the given time <time>."
+        "    view day <day> time=<time>               Shows data that contains the given day <day> at the time <time>."
+        "    view month <month> day <day> time=<time> Shows data that contains the given month <month> on the day <day> at the time <time>."
 
         ""
         " Options:"
@@ -95,12 +100,66 @@ function count
             echo ""
             curl -s "http://$DBWEBB_HOST:$DBWEBB_PORT/data?url=$4"  | jq '. | length' && echo
             exit 0
-        fi
-        if [[ "$3" = "ip" ]]
+        elif [[ "$3" = "ip" ]]
         then
             echo ""
             curl -s "http://$DBWEBB_HOST:$DBWEBB_PORT/data?ip=$4"  | jq '. | length' && echo
             exit 0
+        elif [[ "$3" = "month" ]]
+        then
+            if [[ "$5" = "day" && "$7" = "time" ]]
+            then
+                n=$8
+                if [[ "${#n}" -eq 2 || "${#n}" -eq 5 ]]
+                then
+                    echo ""
+                    curl -s "http://$DBWEBB_HOST:$DBWEBB_PORT/data?month=$4&day=$6&time=$8"  | jq '. | length' && echo
+                    exit 0
+                else 
+                    echo ""
+                    echo "Wrong format. try e.g, -c view month Aug day 12 time 14 or view month Aug day 12 time 13:37"
+                    echo ""
+                    exit 1
+                fi
+            else
+                echo ""
+                curl -s "http://$DBWEBB_HOST:$DBWEBB_PORT/data?month=$4" | jq '. | length' && echo
+                exit 0
+            fi
+        elif [[ "$3" = "day" ]]
+        then
+            if [[ "$5" = "time" ]]
+            then
+                n=$6
+                if [[ "${#n}" -eq 2 || "${#n}" -eq 5 ]]
+                then
+                    echo ""
+                    curl -s "http://$DBWEBB_HOST:$DBWEBB_PORT/data?day=$4&time=$6"  | jq '. | length' && echo
+                    exit 0
+                else 
+                    echo ""
+                    echo "Wrong format. try e.g, -c view day 12 time 14 or view day 12 time 13:37"
+                    echo ""
+                    exit 1
+                fi
+            else
+                curl -s "http://$DBWEBB_HOST:$DBWEBB_PORT/data?day=$4" | jq '. | length' && echo 
+                exit 0
+            fi
+        elif [[ "$3" = "time" ]]
+        then
+            n=$4
+            if [[ "${#n}" -eq 2 || "${#n}" -eq 5 ]]
+            then
+                echo ""
+                curl -s "http://$DBWEBB_HOST:$DBWEBB_PORT/data?time=$4"  | jq '. | length' && echo
+                exit 0
+            else 
+                echo ""
+                echo "Wrong format. try e.g, view time 14 or view time 13:37"
+                echo ""
+                exit 1
+            fi
         fi
         if [[ -z "$4" ]]
         then
@@ -139,6 +198,60 @@ function app-view
     then
         curl "http://$DBWEBB_HOST:$DBWEBB_PORT/data?ip=$2" | jq '.' 
         exit 0
+    elif [[ "$1" = "month" ]]
+    then
+        if [[ "$3" = "day" && "$5" = "time" ]]
+        then
+            n=$6
+            if [[ "${#n}" -eq 2 || "${#n}" -eq 5 ]]
+            then
+                echo ""
+                curl "http://$DBWEBB_HOST:$DBWEBB_PORT/data?month=$2&day=$4&time=$6"  | jq '.'
+                exit 0
+            else 
+                echo ""
+                echo "Wrong format. try e.g, view month Aug day 12 time 14 or view month Aug day 12 time 13:37"
+                echo ""
+                exit 1
+            fi
+        else
+            curl "http://$DBWEBB_HOST:$DBWEBB_PORT/data?month=$2" | jq '.' 
+            exit 0
+        fi
+    elif [[ "$1" = "day" ]]
+    then
+        if [[ "$3" = "time" ]]
+        then
+            n=$4
+            if [[ "${#n}" -eq 2 || "${#n}" -eq 5 ]]
+            then
+                echo ""
+                curl "http://$DBWEBB_HOST:$DBWEBB_PORT/data?day=$2&time=$4"  | jq '.'
+                exit 0
+            else 
+                echo ""
+                echo "Wrong format. try e.g, view day 12 time 14 or view day 12 time 13:37"
+                echo ""
+                exit 1
+            fi
+        else
+            curl "http://$DBWEBB_HOST:$DBWEBB_PORT/data?day=$2" | jq '.' 
+            exit 0
+        fi
+    elif [[ "$1" = "time" ]]
+    then
+        n=$2
+        if [[ "${#n}" -eq 2 || "${#n}" -eq 5 ]]
+        then
+            echo ""
+            curl "http://$DBWEBB_HOST:$DBWEBB_PORT/data?time=$2"  | jq '.'
+            exit 0
+        else 
+            echo ""
+            echo "Wrong format. try e.g, view time 14 or view time 13:37"
+            echo ""
+            exit 1
+        fi
     else 
         curl "http://$DBWEBB_HOST:$DBWEBB_PORT/data" | jq '.' 
         exit 0

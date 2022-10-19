@@ -24,59 +24,78 @@ app.get("/data", (req, res) => {
     let result = [{"Message": "Data loading..."}];
     let result1 = [];
     let result2 = [];
-    if (req.query.ip) {
-        console.log("searching for ip: "+req.query.ip+" in Db.");
-        result = itemsfile.filter(item => item.ip.includes(req.query.ip));
-    } else if (req.query.url) {
-        console.log("searching for url: "+req.query.url+" in Db.");
-        result = itemsfile.filter(item => item.url.includes(req.query.url));
-    } else if (req.query.size) {
-        let tempObejctArr = []
-        if (req.query.size < itemsfile.length) {
-            for (let index = 0; index < req.query.size; index++) {
-                tempObejctArr[index] = itemsfile[index];
+    maxQueryParam = Object.keys(req.query).length;
+
+    switch (maxQueryParam) {
+        case 1:
+            if (req.query.ip) {
+                console.log("searching for ip: "+req.query.ip+" in Db.");
+                result = itemsfile.filter(item => item.ip.includes(req.query.ip));
+            } else if (req.query.url) {
+                console.log("searching for url: "+req.query.url+" in Db.");
+                result = itemsfile.filter(item => item.url.includes(req.query.url));
+            } else if (req.query.size) {
+                let tempObejctArr = []
+                if (req.query.size < itemsfile.length) {
+                    for (let index = 0; index < req.query.size; index++) {
+                        tempObejctArr[index] = itemsfile[index];
+                    } 
+                }
+                console.log("Fetched the first 100th items.")
+                result = tempObejctArr;
+            } else if (req.query.month) {
+
+                console.log("searching for month: "+req.query.month+" in Db.");
+                result = itemsfile.filter(item => item.month.includes(req.query.month));
+        
+            } else if (req.query.day) {
+                
+                console.log("searching for day: "+req.query.day+" in Db.");
+                result = itemsfile.filter(item => item.day.includes(req.query.day));
+                
+            } else if (req.query.time.length === 2) {
+                console.log("searching for time: "+req.query.time+" in Db.");
+                result = itemsfile.filter(item => item.time.substring(0, 2).includes(req.query.time));
+            } else if (req.query.time.length === 5) {
+                console.log("searching for time: "+req.query.time+" in Db.");
+                result = itemsfile.filter(item => item.time.substring(0, 5).includes(req.query.time));
             } 
-        }
-        console.log("Fetched the first 100th items.")
-        result = tempObejctArr;
-    } else if (req.query.month) {
-        if (req.query.time.length === 2 && req.query.day) {
-            console.log("searching for month: "+req.query.month+", day: "+req.query.day+" at time: "+req.query.time+" in Db.");
-            result1 = itemsfile.filter(item => item.time.substring(0, 2).includes(req.query.time));
-            result2 = result1.filter(item => item.day.includes(req.query.day));
-            result = result2.filter(item => item.month.includes(req.query.month));
-        } else if (req.query.time.length === 5 && req.query.day) {
-            console.log("searching for month: "+req.query.month+", day: "+req.query.day+" at time: "+req.query.time+" in Db.");
-            result1 = itemsfile.filter(item => item.time.substring(0, 5).includes(req.query.time));
-            result2 = result1.filter(item => item.day.includes(req.query.day));
-            result = result2.filter(item => item.month.includes(req.query.month));
-        } else {
-            console.log("searching for month: "+req.query.month+" in Db.");
-            result = itemsfile.filter(item => item.month.includes(req.query.month));
-        }
-    } else if (req.query.day) {
-        if (req.query.time.length === 2) {
-            console.log("searching for day: "+req.query.day+" at time: "+req.query.time+" in Db.");
-            result1 = itemsfile.filter(item => item.time.substring(0, 2).includes(req.query.time));
-            result = result1.filter(item => item.day.includes(req.query.day));
-        }else if (req.query.time.length === 5) {
-            console.log("searching for day: "+req.query.day+" at time: "+req.query.time+" in Db.");
-            result1 = itemsfile.filter(item => item.time.substring(0, 5).includes(req.query.time));
-            result = result1.filter(item => item.day.includes(req.query.day));
-        }  else {
-            console.log("searching for day: "+req.query.day+" in Db.");
-        result = itemsfile.filter(item => item.day.includes(req.query.day));
-        }  
-    } else if (req.query.time.length === 2) {
-        console.log("searching for time: "+req.query.time+" in Db.");
-        result = itemsfile.filter(item => item.time.substring(0, 2).includes(req.query.time));
-    } else if (req.query.time.length === 5) {
-        console.log("searching for time: "+req.query.time+" in Db.");
-        result = itemsfile.filter(item => item.time.substring(0, 5).includes(req.query.time));
-    } else {
-        result = itemsfile
-        console.log("Fetched all data.")
+            break;
+        case 2:
+
+            if (req.query.time.length === 2 && req.query.day) {
+                console.log("searching for day: "+req.query.day+" at time: "+req.query.time+" in Db.");
+                result1 = itemsfile.filter(item => item.time.substring(0, 2).includes(req.query.time));
+                result = result1.filter(item => item.day.includes(req.query.day));
+        
+            } else if (req.query.time.length === 5 && req.query.day) {
+                console.log("searching for day: "+req.query.day+" at time: "+req.query.time+" in Db.");
+                result1 = itemsfile.filter(item => item.time.substring(0, 5).includes(req.query.time));
+                result = result1.filter(item => item.day.includes(req.query.day));
+        
+            } 
+            break;
+        case 3:
+            if (req.query.time.length === 2 && req.query.day && req.query.month) {
+                console.log("searching for month: "+req.query.month+", day: "+req.query.day+" at time: "+req.query.time+" in Db.");
+                result1 = itemsfile.filter(item => item.time.substring(0, 2).includes(req.query.time));
+                result2 = result1.filter(item => item.day.includes(req.query.day));
+                result = result2.filter(item => item.month.includes(req.query.month));
+        
+            } else if (req.query.time.length === 5 && req.query.day && req.query.month) {
+                console.log("searching for month: "+req.query.month+", day: "+req.query.day+" at time: "+req.query.time+" in Db.");
+                result1 = itemsfile.filter(item => item.time.substring(0, 5).includes(req.query.time));
+                result2 = result1.filter(item => item.day.includes(req.query.day));
+                result = result2.filter(item => item.month.includes(req.query.month));
+        
+            }
+            break;
+        default:
+            result = itemsfile
+            console.log("Fetched all data.")
+            break;
     }
+   
     res.json(result);
 });
 
