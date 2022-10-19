@@ -23,7 +23,7 @@ VERSION="1.0.0"
 # Set environment and use defaults if defined
 #
 DBWEBB_HOST=$(head -n 1 server.txt)
-DBWEBB_PORT=${DBWEBB_PORT:-1338}
+DBWEBB_PORT=${DBWEBB_PORT:-1337}
 
 #
 # Message to display for usage and help 

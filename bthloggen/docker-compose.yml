@@ -7,7 +7,7 @@ services:
         image: gmiak/bthloggen-server:1.0
         container_name: "bthloggen-server"
         ports:
-            - "1338:1337"
+            - "1337:1337"
         volumes:
             - "./data/:/data/"
         networks:
