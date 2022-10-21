@@ -1,7 +1,9 @@
-.content {
+.content, .filters {
     margin: 8px auto;
     width: 800px;
     padding: 20px;
+}
+.content {
     min-height: 500px;
 }
 
@@ -22,4 +24,14 @@
     border-top: 3px solid #bbb;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.space {
+    height: 20px;
+}
+.spacePadding {
+    padding-top: 20px;
+}
+.inputLevel2 {
+    width: 100px;
 }
