@@ -1,0 +1,25 @@
+.content {
+    margin: 8px auto;
+    width: 800px;
+    padding: 20px;
+    min-height: 500px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer svg {
+    padding-left: 2px;
+}
+
+.copyright {
+    font-size: xx-small;
+    color: gray;
+}
+
+.solifd {
+    border-top: 3px solid #bbb;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
