@@ -21,4 +21,16 @@ services:
             gmiak:
         links:
             - server:myserver
+    webbclient:
+        image: gmiak/bthloggen-webbclient:1.0
+        container_name: "bthloggen-webbclient"
+        volumes:
+            - '.:/webbclient'
+            - '/webbclient/node_modules'
+        ports:
+            - "1338:3000"
+        networks:
+            gmiak:
+        links:
+            - server:myserver
   
