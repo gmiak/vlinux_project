@@ -37,31 +37,29 @@ export class Home extends Component {
 
     tableDocs(data) {
         return (
-            <>
-                <div className="container">
-                    <div className="row">
-                        <div className="col-4">
-                            {data.url}
-                        </div>
+            <div className="container">
+                <div className="row">
+                    <div className="col-4">
+                        {data.url}
+                    </div>
 
-                        <div className="col-3">
-                            {data.ip}
-                        </div>
+                    <div className="col-3">
+                        {data.ip}
+                    </div>
 
-                        <div className="col">
-                            {data.day}
-                        </div>
+                    <div className="col">
+                        {data.day}
+                    </div>
 
-                        <div className="col">
-                            {data.month}
-                        </div>
+                    <div className="col">
+                        {data.month}
+                    </div>
 
-                        <div className="col-3">
-                            {data.time}
-                        </div>
+                    <div className="col-3">
+                        {data.time}
                     </div>
                 </div>
-            </>
+            </div>
         );
     }
     render() {
