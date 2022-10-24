@@ -1,8 +1,15 @@
-.content, .filters {
+.content {
     margin: 8px auto;
     width: 800px;
     padding: 20px;
 }
+
+.filters {
+    margin: 8px auto;
+    width: 800px;
+    padding: 20px;
+}
+
 .content {
     min-height: 500px;
 }
@@ -29,9 +36,11 @@
 .space {
     height: 20px;
 }
+
 .spacePadding {
     padding-top: 20px;
 }
+
 .inputLevel2 {
     width: 100px;
 }

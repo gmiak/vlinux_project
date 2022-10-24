@@ -10,11 +10,11 @@ cp log.json data/
 #
 # Starting server, client and web client service
 #
-sudo docker-compose up -d server
-sudo docker-compose up -d webbclient
-sudo docker-compose run client
+docker-compose up -d server
+docker-compose up -d webbclient
+docker-compose run client
 
 #
 # Close server, client and web client service
 #
-sudo docker-compose down
+docker-compose down
