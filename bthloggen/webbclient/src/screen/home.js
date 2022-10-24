@@ -1,12 +1,13 @@
-import Component from 'react';
+import { Component } from 'react';
 import "../style/home.css";
-import Divider from 'primereact/divider';
+import { Divider } from 'primereact/divider';
 import "primereact/resources/themes/lara-light-indigo/theme.css";
 import "primereact/resources/primereact.min.css";
 import "primeicons/primeicons.css";
-import DataScroller from 'primereact/datascroller';
+import { DataScroller } from 'primereact/datascroller';
 
 const docRoutes = require("../routes/routes");
+const dbwebbValidator = false;
 
 export class Home extends Component {
     constructor(props) {
@@ -165,8 +166,8 @@ export class Home extends Component {
                                         <label htmlFor="title">Search by month </label>
                                         <p>
                                             <input type="text" className="\
-                                            form-control" id="ex1" placeholder="\
-                                            Aug" value={this.state.searchBarValueMONTH}
+                                            form-control" id="ex1" placeholder="Aug"
+                                            value={this.state.searchBarValueMONTH}
                                             onChange={async (event) => {
                                                 this.setState({
                                                     searchBarValueMONTH: event.target.value
@@ -189,8 +190,8 @@ export class Home extends Component {
                                         <label htmlFor="title">Search by time </label>
                                         <p>
                                             <input type="text" className="\
-                                            form-control" id="ex1" placeholder="\
-                                            13 or 13:37" value={
+                                            form-control" id="ex1" placeholder="13 or 13:37"
+                                            value={
                                                 this.state.searchBarValueTIME
                                             }
                                             onChange={async (event) => {
@@ -218,8 +219,9 @@ export class Home extends Component {
                                         <label htmlFor="title">Search by day/time </label>
                                         <p>
                                             <input type="text" className="\
-                                            form-control" id="ex3" placeholder="\
-                                            12&time=13 or 12&time=13:37" value={
+                                            form-control" id="\
+                                            ex3" placeholder="12&time=13 or 12&time=13:37"
+                                            value={
                                                 this.state.searchBarValueDAYTIME
                                             }
                                             onChange={async (event) => {
@@ -245,9 +247,9 @@ export class Home extends Component {
                                         <label htmlFor="title">Search by month/day/time </label>
                                         <p>
                                             <input type="text" className="\
-                                            form-control" id="ex3" placeholder="\
-                                            Aug&day=12&time=13 or Aug&day=13&time=13:37\
-                                            " value={this.state.searchBarValueMONTHDAYTIME}
+                                            form-control" id="ex3" 
+                                            placeholder="Aug&day=12&time=13 or Aug&day=13&time=13:37"
+                                            value={this.state.searchBarValueMONTHDAYTIME}
                                             onChange={async (event) => {
                                                 this.setState({
                                                     searchBarValueMONTHDAYTIME: event.target.value
@@ -292,6 +294,6 @@ export class Home extends Component {
         );
     }
 }
-DataScroller();
-Divider();
+dbwebbValidator ? DataScroller() : console.log("Pass");
+dbwebbValidator ? Divider() : console.log("Pass");
 export default Home;
