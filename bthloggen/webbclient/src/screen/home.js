@@ -247,8 +247,9 @@ export class Home extends Component {
                                         <label htmlFor="title">Search by month/day/time </label>
                                         <p>
                                             <input type="text" className="\
-                                            form-control" id="ex3" 
-                                            placeholder="Aug&day=12&time=13 or Aug&day=13&time=13:37"
+                                            form-control" id="ex3"
+                                            placeholder="Aug&day=12&time=13 \
+                                            or Aug&day=13&time=13:37"
                                             value={this.state.searchBarValueMONTHDAYTIME}
                                             onChange={async (event) => {
                                                 this.setState({
